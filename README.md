@@ -1,1 +1,1 @@
-# Duet_Project_Library_management_system
+Java Swing project Library Management System developed during CodeAlpha internship, focusing on real-world application.This project includes:users to book rooms online, managing availability, pricing, and guest details. It streamlines the booking process for both customers and hotel staff, improving efficiency and customer satisfaction
